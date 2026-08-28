@@ -1,0 +1,6 @@
+{
+  "name": "Itinerary Builder",
+  "description": "AI-powered travel itinerary builder customizing trips based on personal interests and budget constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
